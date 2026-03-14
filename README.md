@@ -17,14 +17,14 @@ Python 3.x instalado.
 Privilégios de Administrador: Como o script altera um arquivo de sistema (C:\Windows\System32\drivers\etc\hosts), ele precisa ser executado como Administrador.
 
 Passo a Passo
-Baixe o arquivo main.py (ou o nome que você deu ao script).
+Baixe o arquivo gerenciador_sites.py
 
 Abra o Prompt de Comando ou PowerShell como Administrador.
 
 Navegue até a pasta do script e execute:
 
 Bash
-python nome_do_seu_arquivo.py
+python gerenciador_sites.py
 🛠️ Tecnologias Utilizadas
 Python: Linguagem principal.
 
